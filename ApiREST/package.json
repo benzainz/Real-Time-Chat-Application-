@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@stylistic/eslint-plugin-js": "^2.4.0",
     "standard": "17.1.0"
   },
   "eslintConfig": {
